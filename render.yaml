@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: moontvplus
+    name: tvb
     runtime: image
     plan: free
     image:
